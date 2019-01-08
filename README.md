@@ -1,2 +1,3 @@
-# Hello-World
- det bliver en god dag 
+Hello SWE exam
+
+
